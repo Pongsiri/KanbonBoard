@@ -1,30 +1,30 @@
 [{
         "id": 1,
         "title": "Code ReactJS",
-        "description": "I should read the whole book",
+        "description": "I want to learn reactjs",
         "color": "#BD8D31",
         "status": "in-progress",
         "tasks": []
     },
     {
         "id": 2,
-        "title": "Write some code",
-        "description": "Code along with the samples in the book",
+        "title": "Create application To-do",
+        "description": "application to do frist react programming",
         "color": "#3A7E28",
         "status": "todo",
         "tasks": [{
                 "id": 1,
-                "name": "ContactList Example",
+                "name": "Coposing Component",
                 "done": true
             },
             {
                 "id": 2,
-                "name": "Kanban Example",
+                "name": "DOM Abstraction",
                 "done": false
             },
             {
                 "id": 3,
-                "name": "My own experiments",
+                "name": "Architecting React Applications with FLux",
                 "done": false
             }
         ]
