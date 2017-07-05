@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "title": "Read the Book",
+        "title": "Code ReactJS",
         "description": "I should read the whole book",
         "color": "#BD8D31",
         "status": "in-progress",
