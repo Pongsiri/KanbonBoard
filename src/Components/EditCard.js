@@ -25,10 +25,7 @@ class EditCard extends Component {
             .pushState(null, '/');
     }
     handleClose(e) {
-        this
-            .props
-            .history
-            .pushState(null, '/');
+        this.props.history.pushState(null, '/');
     }
     render() {
         return (
