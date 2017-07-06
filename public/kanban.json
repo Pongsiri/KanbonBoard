@@ -1,30 +1,30 @@
 [{
         "id": 1,
-        "title": "Code ReactJS",
-        "description": "I want to learn reactjs",
+        "title": "เขียนโปรแกรม module employee",
+        "description": "customize โปรแกรมบ่างส่วน",
         "color": "#BD8D31",
         "status": "in-progress",
         "tasks": []
     },
     {
         "id": 2,
-        "title": "Create application To-do",
-        "description": "application to do frist react programming",
+        "title": "แก้โปรแกรมของบริษัท biosoft",
+        "description": "แก้เคส โมดูลเวลา",
         "color": "#3A7E28",
         "status": "todo",
         "tasks": [{
                 "id": 1,
-                "name": "Coposing Component",
+                "name": "แก้เวลานำเข้าโปรแกรม",
                 "done": true
             },
             {
                 "id": 2,
-                "name": "DOM Abstraction",
+                "name": "แก้เวลาสาย",
                 "done": false
             },
             {
                 "id": 3,
-                "name": "Architecting React Applications with Flux",
+                "name": "แก้คำนวนโอที",
                 "done": false
             }
         ]
